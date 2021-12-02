@@ -1,0 +1,16 @@
+Заглушка
+
+<<<<<<< HEAD
+Daadasd
+=======
+Pfukeirf
+
+Qwewqe
+
+Awe
+Awe
+Dsadfasdfdsfds
+Sdfsdf
+Q	wwsqwads
+Wweew
+>>>>>>> Pfukeirf122dd
