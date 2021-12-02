@@ -1,3 +1,16 @@
 Заглушка
 
+<<<<<<< .merge_file_jrbjSJ
 Daadasd
+=======
+Pfukeirf
+
+Qwewqe
+
+Awe
+Awe
+Dsadfasdfdsfds
+Sdfsdf
+Q	wwsqwads
+Wweew
+>>>>>>> .merge_file_gXIwyy
